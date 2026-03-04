@@ -23,13 +23,13 @@ Tools:        Docker, Git, Linux, GitHub Actions
 | Project | Description |
 |---------|-------------|
 | [data-utils](https://github.com/TrenchyDev/data-utils) | Python utility library for data processing & validation |
-| [trenchy-pump-launcher-bundler](https://github.com/TrenchyDev/trenchy-pump-launcher-bundler) | Solana token launcher with Jito bundler integration |
+| [trenchy-pumpfun-launcher-bundler-dashboard-react](https://github.com/TrenchyDev/trenchy-pumpfun-launcher-bundler-dashboard-react) | Solana token launcher with Jito bundler, vanity addresses & real-time trading UI |
 
 ### GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TrenchyDev&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=TrenchyDev&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrenchyDev&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TrenchyDev&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
