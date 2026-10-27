@@ -34,3 +34,7 @@ Tools:        Docker, Git, Linux, GitHub Actions
 ---
 
 *Building tools that solve real problems.*
+
+### Contact
+
+- X: @trenchytools
