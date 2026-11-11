@@ -23,7 +23,10 @@ Tools:        Docker, Git, Linux, GitHub Actions
 | Project | Description |
 |---------|-------------|
 | [data-utils](https://github.com/TrenchyDev/data-utils) | Python utility library for data processing & validation |
-| [trenchy-pumpfun-launcher-bundler-dashboard-react](https://github.com/TrenchyDev/trenchy-pumpfun-launcher-bundler-dashboard-react) | Solana token launcher with Jito bundler, vanity addresses & real-time trading UI |
+| [pons-robinhood-bundler-multiwallet-launcher](https://github.com/TrenchyDev/pons-robinhood-bundler-multiwallet-launcher) | Robinhood-chain bundler & launcher, bundled dev buy + live trades |
+| [elysium-hyperliquid-l2-launcher-starter](https://github.com/TrenchyDev/elysium-hyperliquid-l2-launcher-starter) | Hyperliquid L2 launch starter, dry-run before spend |
+| [pumpfun-bundler-cli-launcher](https://github.com/TrenchyDev/pumpfun-bundler-cli-launcher) | One-file pump.fun CLI bundler/launcher |
+| [solana-pumpfun-bundler-jito-multiwallet-launcher](https://github.com/TrenchyDev/solana-pumpfun-bundler-jito-multiwallet-launcher) | Solana token launcher with Jito bundler, vanity addresses & real-time trading UI |
 
 ### GitHub stats
 
