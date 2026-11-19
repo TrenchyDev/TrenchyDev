@@ -8,3 +8,4 @@
 - 2026-11-16 · log the day
 - 2026-11-17 · fix a typo
 - 2026-11-18 · tidy the wallet list
+- 2026-11-19 · scratch note
