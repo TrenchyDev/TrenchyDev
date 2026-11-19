@@ -7,3 +7,4 @@
 - 2026-11-15 · read the pump.fun docs
 - 2026-11-16 · log the day
 - 2026-11-17 · fix a typo
+- 2026-11-18 · tidy the wallet list
