@@ -10,3 +10,4 @@
 - 2026-11-18 · tidy the wallet list
 - 2026-11-19 · scratch note
 - 2026-11-20 · fix a typo
+- 2026-11-21 · log the day
