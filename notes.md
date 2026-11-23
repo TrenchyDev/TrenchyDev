@@ -12,3 +12,4 @@
 - 2026-11-20 · fix a typo
 - 2026-11-21 · log the day
 - 2026-11-22 · scratch note
+- 2026-11-23 · ponytail the funding flow
