@@ -1,43 +1,30 @@
-## Hey, I'm Trench
+<p align="center"><img src="assets/logo.jpg" alt="TrenchyDev" width="430"></p>
 
-Backend developer working with Python, TypeScript, and Solana. I build automation tools, data pipelines, and blockchain integrations.
+<h1 align="center">TrenchyDev</h1>
 
-### What I work on
+<p align="center"><b>Open-source memecoin launchers for every chain.</b><br>
+Part of the Aeon Launcher suite — launch in the browser, or clone it and ship your own.</p>
 
-- **Backend & APIs** — REST services, data processing pipelines, task automation
-- **Blockchain** — Solana programs, on-chain data indexing, DeFi tooling
-- **DevOps** — CI/CD, Docker, monitoring & observability
-
-### Tech stack
-
-```
-Languages:    Python, TypeScript, JavaScript, Rust
-Frameworks:   Node.js, Express, FastAPI
-Blockchain:   Solana, Anchor, web3.js
-Databases:    PostgreSQL, Redis, MongoDB
-Tools:        Docker, Git, Linux, GitHub Actions
-```
-
-### Recent projects
-
-| Project | Description |
-|---------|-------------|
-| [data-utils](https://github.com/TrenchyDev/data-utils) | Python utility library for data processing & validation |
-| [pons-robinhood-bundler-multiwallet-launcher](https://github.com/TrenchyDev/pons-robinhood-bundler-multiwallet-launcher) | Robinhood-chain bundler & launcher, bundled dev buy + live trades |
-| [elysium-hyperliquid-l2-launcher-starter](https://github.com/TrenchyDev/elysium-hyperliquid-l2-launcher-starter) | Hyperliquid L2 launch starter, dry-run before spend |
-| [pumpfun-bundler-cli-launcher](https://github.com/TrenchyDev/pumpfun-bundler-cli-launcher) | One-file pump.fun CLI bundler/launcher |
-| [solana-pumpfun-bundler-jito-multiwallet-launcher](https://github.com/TrenchyDev/solana-pumpfun-bundler-jito-multiwallet-launcher) | Solana token launcher with Jito bundler, vanity addresses & real-time trading UI |
-
-### GitHub stats
-
-![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=TrenchyDev&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TrenchyDev&layout=compact&theme=github_dark&hide_border=true)
+<p align="center">
+  <a href="https://aeonlauncher.xyz">Homepage</a> &nbsp;·&nbsp;
+  <a href="https://api.trenchy.tools">API</a> &nbsp;·&nbsp;
+  <a href="https://t.me/dogtoshi_x">Telegram</a>
+</p>
 
 ---
 
-*Building tools that solve real problems.*
+### Launchers
 
-### Contact
+| Chain | Open | Clone |
+|---|---|---|
+| Solana | [open](https://sol.aeonlauncher.xyz) | [clone](https://github.com/TrenchyDev/solana-bundler-launcher-react-dashboard) |
+| Robinhood Chain | [open](https://rh.aeonlauncher.xyz) | [clone](https://github.com/TrenchyDev/robinhood-chain-wallet-manager-dashboard) |
+| Ethereum | [open](https://eth.aeonlauncher.xyz) | [clone](https://github.com/TrenchyDev/ethereum-mint-launcher-wallet-manager) |
+| Base | [open](https://base.aeonlauncher.xyz) | [clone](https://github.com/TrenchyDev/base-clanker-bundler-launcher) |
+| BNB Chain | [open](https://bnb.aeonlauncher.xyz) | [clone](https://github.com/TrenchyDev/bnb-mint-bundler-launcher) |
+| Arc | [open](https://arc.aeonlauncher.xyz) | [clone](https://github.com/TrenchyDev/arc-multiwallet-launcher-dashboard) |
+| Elysium | [open](https://ely.aeonlauncher.xyz) | [clone](https://github.com/TrenchyDev/elysium-volume-maker-and-autoseller) |
 
-- X: @trenchytools
+Every launcher runs entirely in your browser — your keys never leave the tab. Clone any repo, point it at your own [API key](https://api.trenchy.tools), and deploy.
+
+<p align="center"><img src="assets/mark.jpg" width="120" alt=""></p>
