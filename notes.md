@@ -15,3 +15,4 @@
 - 2026-11-23 · ponytail the funding flow
 - 2026-11-24 · log the day
 - 2026-11-25 · clean logs
+- 2026-11-26 · cache the pair list
